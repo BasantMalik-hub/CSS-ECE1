@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+
+.header{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.navbar{
+    background-color: antiquewhite;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+}
+
+.footer{
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.form{
+    background-color: azure;
+    padding: 20px;
+}
+.form-section input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+}
+.sidebar {
+    background-color: #ccffcc; 
+    padding: 20px;
+    border: 1px solid #333;
+}
+
